@@ -9,9 +9,9 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 ## Algorithm
 1. Use the standard libraries in python for finding linear regression.
-2. Set variables for assigning dataset values
+2. Set variables for assigning dataset values.
 3. Import linear regression from sklearn.
-4. Predict the values of array
+4. Predict the values of array.
 5. Calculate the accuracy, confusion and classification report by importing the required modules from sklearn.
 
 ## Program:
@@ -125,14 +125,23 @@ np.mean(predict(res.x,X) == y)
 
 ## Output:
 ![Screenshot (17)](https://user-images.githubusercontent.com/128135126/234284153-2b1b8eaa-de3b-490f-bce0-dbc8afd47bb0.png)
+
 ![Screenshot (18)](https://user-images.githubusercontent.com/128135126/234284226-e6bf131d-2cad-4670-99d7-fb51f14cc540.png)
+
 ![Screenshot (19)](https://user-images.githubusercontent.com/128135126/234284284-ad592394-0173-48ef-9a07-ee49ed52dda5.png)
+
 ![Screenshot (20)](https://user-images.githubusercontent.com/128135126/234284343-76f92d47-8058-43a0-ad3c-25564702691e.png)
+
 ![Screenshot (21)](https://user-images.githubusercontent.com/128135126/234284400-7ff5576d-212b-4c49-9474-6e435f488b47.png)
+
 ![Screenshot (22)](https://user-images.githubusercontent.com/128135126/234284475-102620b9-7ded-4933-87eb-40ab97381e12.png)
+
 ![Screenshot (23)](https://user-images.githubusercontent.com/128135126/234284572-331fef27-5f30-44d0-a0f3-75ecc27234f7.png)
+
 ![Screenshot (24)](https://user-images.githubusercontent.com/128135126/234284634-b1a90d56-34ed-4d15-943a-8431aea96ad3.png)
+
 ![Screenshot (25)](https://user-images.githubusercontent.com/128135126/234284681-6b4a65c8-2b7a-4c6f-86df-22a23bcc1fb1.png)
+
 ![Screenshot (26)](https://user-images.githubusercontent.com/128135126/234284742-063a21cc-5fbd-432f-84bf-5ca32204e30b.png)
 
 ## Result:
